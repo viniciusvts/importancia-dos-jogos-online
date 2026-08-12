@@ -1,0 +1,22 @@
+[
+  { "id": "1", "en": "Hello", "pt": "Olá" },
+  { "id": "2", "en": "Goodbye", "pt": "Tchau" },
+  { "id": "3", "en": "Book", "pt": "Livro" },
+  { "id": "4", "en": "Teacher", "pt": "Professor" },
+  { "id": "5", "en": "Student", "pt": "Estudante" },
+  { "id": "6", "en": "Game", "pt": "Jogo" },
+  { "id": "7", "en": "Challenge", "pt": "Desafio" },
+  { "id": "8", "en": "Learn", "pt": "Aprender" },
+  { "id": "9", "en": "Score", "pt": "Pontuação" },
+  { "id": "10", "en": "Level", "pt": "Nível" },
+  { "id": "11", "en": "Player", "pt": "Jogador" },
+  { "id": "12", "en": "Victory", "pt": "Vitória" },
+  { "id": "13", "en": "Question", "pt": "Pergunta" },
+  { "id": "14", "en": "Answer", "pt": "Resposta" },
+  { "id": "15", "en": "World", "pt": "Mundo" },
+  { "id": "16", "en": "Friend", "pt": "Amigo" },
+  { "id": "17", "en": "Time", "pt": "Tempo" },
+  { "id": "18", "en": "Knowledge", "pt": "Conhecimento" },
+  { "id": "19", "en": "Practice", "pt": "Prática" },
+  { "id": "20", "en": "Skill", "pt": "Habilidade" }
+]
