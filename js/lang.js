@@ -4,8 +4,8 @@ const translations = {
     "pt-BR": "A Importância dos Jogos Online na Aprendizagem de Inglês"
   },
   navBrand: {
-    "en-US": "EduGames English",
-    "pt-BR": "EduGames Inglês"
+    "en-US": "Samuel Games English",
+    "pt-BR": "Samuel Games Inglês"
   },
   navNavImportance: {
     "en-US": "Games are important?",
@@ -92,6 +92,10 @@ const translations = {
     "en-US": "Explanatory Video: Learning English with Educational Games",
     "pt-BR": "Vídeo Explicativo: Aprendendo Inglês com Jogos Educativos"
   },
+  memoryActivityTitle: {
+    "en-US": "Vocabulary Activity",
+    "pt-BR": "Atividade de Vocabulário"
+  },
   sec2Title: {
     "en-US": "Educational games",
     "pt-BR": "Jogos educativos"
@@ -119,6 +123,10 @@ const translations = {
   memoryCompletedText: {
     "en-US": "Awesome! You found all 10 pairs!",
     "pt-BR": "Incrível! Você encontrou todos os 10 pares!"
+  },
+  sec3FinalChall: {
+    "en-US": "Final Challenge",
+    "pt-BR": "Desafio Final"
   },
   sec3Title: {
     "en-US": "Challenge",
@@ -173,8 +181,8 @@ const translations = {
     "pt-BR": "Grupo de estudantes comemorando o sucesso após completar um desafio de quiz online"
   },
   footerText: {
-    "en-US": "© EduGames English — Educational website on the importance of online games in English learning.",
-    "pt-BR": "© EduGames Inglês — Site educativo sobre a importância dos jogos online na aprendizagem de inglês."
+    "en-US": "© Samuel Games English — Educational website on the importance of online games in English learning.",
+    "pt-BR": "© Samuel Games Inglês — Site educativo sobre a importância dos jogos online na aprendizagem de inglês."
   }
 };
 

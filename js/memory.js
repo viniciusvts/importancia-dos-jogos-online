@@ -83,7 +83,7 @@ class MemoryGame {
     this.updateScoreDisplay();
 
     if (this.messageBox) {
-      this.messageBox.innerHTML = "";
+      this.messageBox.classList.add('d-none');
     }
   }
 
@@ -165,7 +165,7 @@ class MemoryGame {
         this.flippedCards = [];
         this.isProcessing = false;
         this.timer = null;
-      }, 3000); // 3 seconds timer as specified
+      }, 1000); // 3 seconds timer as specified
     }
   }
 
@@ -182,7 +182,7 @@ class MemoryGame {
     const alertMsg = translations.memoryCompletedText[currentLang] || "Awesome! You found all 10 pairs!";
     
     if (this.messageBox) {
-      this.messageBox.innerHTML = `<div class="alert alert-success mt-3 shadow-sm text-center fw-bold" role="alert">${alertMsg}</div>`;
+      this.messageBox.classList.remove('d-none');
     }
   }
 
